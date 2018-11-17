@@ -10,7 +10,7 @@ module.exports = {
     {
       resolve: `gatsby-source-medium`,
       options: {
-        username: `@xarus01/publication`,
+        username: `@xarus01`,
       },
     },
     {

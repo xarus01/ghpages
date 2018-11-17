@@ -3,7 +3,7 @@ module.exports = {
     title: 'Blog',
     author: 'Jack Park',
     description: 'Under Construction',
-    siteUrl: 'https://xarus.me/',
+    siteUrl: 'https://tech.xarus.me/',
   },
   pathPrefix: '/',
   plugins: [
